@@ -3,4 +3,5 @@
 - David J Malan
 - Steve Jobs
 - Bill Gates
+- Ken C Doods
 - Linus Torvalds
